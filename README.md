@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Guided Project: HR Analytics - Presence Insights**
 
-**Live Dashboard:** https://app.powerbi.com/reportEmbed?reportId=d6891970-5abf-428d-94e9-a2f0f78805bd&autoAuth=true&ctid=fdfed7bd-9f6a-44a1-b694-6e39c468c150
+**Live Dashboard:**
 
 **Project Overview Statement:**
 Through our HR Analytics project at AtliQ Hardware, we're using Power BI to turn complex HR data into actionable insights. Our main goal is to understand employee attendance patterns to improve HR strategies and enhance workforce productivity.
