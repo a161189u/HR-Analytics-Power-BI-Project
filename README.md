@@ -1,6 +1,6 @@
 **# HR-Analytics-Power-BI-Project**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Guided Project: HR Analytics - Presence Insights**
+**Project: HR Analytics - Presence Insights**
 
 **Live Dashboard:** https://lnkd.in/gEdeip7t
 
